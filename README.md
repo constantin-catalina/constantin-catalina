@@ -20,8 +20,6 @@ Let’s get to know each other, shall we?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-catalina&langs_count=10&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects & Tinkerings
-                                                 …ᘛ⁐̤ᕐᐷ
-                                                found it!  
 
 > _“Until our next commit… take care, friend~”_ (˶ᵔ ᵕ ᵔ˶)
 
