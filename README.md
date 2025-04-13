@@ -1,10 +1,13 @@
 ## Hiii there ₍^. .^₎⟆  
 
->I was just wandering through lines of code, thinking I might find something special today... and look — it’s **you**!  
+>I was just wandering through lines of code, chasing a wandering thought... and maybe a runaway cat, but then
+>✨*poof!*✨
+>
+>There **you** were!
 
 Let’s get to know each other, shall we?
 
-### About me
+## About Me: A Dev's Tale
 ---
 
 ```java
@@ -19,12 +22,14 @@ public class AboutMe {
         var hobbies = new String[]{"hiking", "photography", "playing guitar"};
 }
 ```
->(｡･ω･｡)ﾉ♡ nice to meet you!
+I will always carry curiosity in my backpack, a camera slung over one shoulder, and a guitar pick in my hoodie pocket.
+>(｡･ω･｡)ﾉ♡ nice to meet you, traveler!
 
 ### Skills & Tools
 ---
->After some time tinkering at my desk, and gently removing my cat from the keyboard again...
->I packed a few trusty tools into my dev backpack:
+>After countless nights tinkering under moonlight...
+>I’ve packed my enchanted dev backpack with trusty tools and shimmering charms: spells cast in C, Python scrolls, and ancient React runes, all gathered on my journey.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" style="margin-right:10px;" />
@@ -42,20 +47,47 @@ public class AboutMe {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" style="margin-right:10px;" />
 </p>
 
+>But... will this be enough to find my cat?
+>
+>The trail is warm — a pawprint here, a loose bracket there...
+>This must be the path!
 
 ### My coding aura
 ---
->As I work, little lines of color float around me — soft glows of code languages,
-showing what I’ve touched and what I’ve yet to master.
+>As I walk, little lines of color float around me — soft glows of language magic,
+showing the tools I’ve mastered, and those I’ve just begun to understand.
+
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-catalina&langs_count=10&layout=compact&theme=catppuccin_latte" width="50%" /> 
+</div>
+
+>
+>Suddenly — a sparkle on the floor! A tiny trail of characters...
+>
+>It leads back to my cottage...
 
 ### Projects & Tinkerings
 ---
->In the quiet corners of my little room, I love crafting little programs —
-tools that make life softer, simpler, and a bit more fun.
-My cat thinks every bug is a toy, but I think that just makes debugging cuter
+>In the quiet corners of my little cottage, where the candlelight flickers against walls lined with code-scrolls — I spend my evenings brewing soft spells: whimsical utilities, cozy little tools, and the occasional magic potion for the terminal.
+>But not all is peaceful in the land of bugs and brackets...
+>
+>My cat? Oh, she thinks every bug is a toy and sniffs around my code like she's hunting. Now I know! She must be playing around with some of my precious treasures:
 
->More pixel potions are brewing... stay tuned for new spellbooks and code critters soon!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=files_tracker&theme=catppuccin_latte";" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=UNO_game&theme=catppuccin_latte";" />
+</div>
 
+>As I push open the door... there she is. Curled beside my keyboard, eyes locked on the glowing screen.
+```
+sniff sniff...
+…ᘛ⁐̤ᕐᐷ found it!
+```
+>A mouse cursor hovers beside a lonely semicolon, long forgotten. **We’re safe!** — for now. She’s done her part in the Debugging Guild.
 
-> _“Until our next commit… take care, friend~”_ (˶ᵔ ᵕ ᵔ˶)
+>Back on the desk, new spellbooks lie open. Runes shift gently on the page.
+>More familiars are brewing, more enchanted experiments await...
+> Stay tuned, traveler — the next commit might just summon something wonderful.
+
+> _“Until then… take care, my friend~”_ (˶ᵔ ᵕ ᵔ˶)
 
