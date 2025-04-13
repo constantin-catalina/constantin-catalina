@@ -74,8 +74,12 @@ showing the tools I’ve mastered, and those I’ve just begun to understand.
 >My cat? Oh, she thinks every bug is a toy and sniffs around my code like she's hunting. Now I know! She must be playing around with some of my precious treasures:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=files_tracker&theme=catppuccin_latte";" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=UNO_game&theme=catppuccin_latte";" />
+  <a href="https://github.com/constantin-catalina/files_tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=files_tracker&theme=catppuccin_latte" />
+  </a>
+  <a href="https://github.com/constantin-catalina/UNO_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=UNO_game&theme=catppuccin_latte" />
+  </a>
 </div>
 
 >As I push open the door... there she is. Curled beside my keyboard, eyes locked on the glowing screen.
