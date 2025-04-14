@@ -19,9 +19,10 @@ public class AboutMe {
         var year = "almost the last one";
         var favoritePet = "fennec fox";
         var hobbies = new String[]{"hiking", "photography", "playing guitar"};
+    }
 }
 ```
-I will always carry curiosity in my backpack, a camera slung over one shoulder, and a guitar pick in my hoodie pocket.
+
 >(｡･ω･｡)ﾉ♡ nice to meet you, traveler!
 
 ### Skills & Tools
