@@ -1,6 +1,6 @@
 ## Hiii there ₍^. .^₎⟆  
 
->I was just meandering through loops and logic, following a curious spark... and possibly a runaway cat, when>✨*poof!*✨
+>I was just meandering through loops and logic, following a curious spark... and possibly a runaway cat, when✨*poof!*✨
 >
 >There **you** were!
 
