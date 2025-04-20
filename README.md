@@ -77,7 +77,7 @@ showing the tools I’ve mastered, and those I’ve just begun to understand.
   <a href="https://github.com/constantin-catalina/files_tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=files_tracker&theme=catppuccin_latte" />
   </a>
-  <a href="https://github.com/constantin-catalina/UNO_game">
+  <a href="https://github.com/constantin-catalina/MyReverseEngineeringTool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=MyReverseEngineeringTool&theme=catppuccin_latte" />
   </a>
 </div>
