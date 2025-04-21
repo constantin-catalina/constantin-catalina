@@ -58,7 +58,7 @@ public class AboutMe {
 showing the tools I’ve mastered, and those I’ve just begun to understand.
 
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-catalina&layout=compact&theme=catppuccin_latte" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantin-catalina&layout=compact&langs_count=10&theme=catppuccin_latte" width="50%">
 </div>
 
 >
