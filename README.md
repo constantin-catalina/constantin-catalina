@@ -81,13 +81,23 @@ showing the tools I’ve mastered, and those I’ve just begun to understand.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=MyReverseEngineeringTool&theme=catppuccin_latte" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/constantin-catalina/snackApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=snackApp&theme=catppuccin_latte" />
+  </a>
+  <a href="https://github.com/constantin-catalina/Distance_detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=constantin-catalina&repo=Distance_detector&theme=catppuccin_latte" />
+  </a>
+</div>
+
 
 >As I push open the door... there she is. Curled beside my keyboard, eyes locked on the glowing screen.
 ```
 sniff sniff...
 …ᘛ⁐̤ᕐᐷ found it!
 ```
->A mouse cursor hovers beside a lonely semicolon, long forgotten. **We’re safe!** — for now. She’s done her part in the Debugging Guild.
+>A mouse cursor hovers beside a lonely semicolon, long forgotten. She pounces - swift, silent... The mouse is caught!
+>She stretches, then glances over the edge of the desk, satisfied. **We’re safe** - for now.
 
 >Back on the desk, new spellbooks lie open. Runes shift gently on the page.
 >More familiars are brewing, more enchanted experiments await...
